@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <authors>Microsoft</authors>
+    <id>DeployR.Broker</id>
+    <version>$version$</version>
+    <description>
+      The .NET RBroker Framework provides a simple yet powerful API that supports the rapid integration of R Analytics inside any .NET application. Simply define an RTask, submit your task to an instance of RBroker and be notified when your RTaskResult is available.
+      The framework scales effortlessly to support simple integrations through sophisticated solutions such as high throughput, realtime scoring engines.
+    </description>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/jamesbascle/dotnet-rbroker-framework</projectUrl>
+    <releaseNotes>Original project found at https://github.com/Microsoft/dotnet-rbroker-framework from Microsoft. Changes made to upgrade and distribute as a NuGet package can be found at the included project site link. </releaseNotes>
+  </metadata>
+</package>

@@ -24,4 +24,10 @@
 *.esproj
 *.sublime-workspace
 *.sublime-project
+*.suo
 
+
+src/DeployRBroker/bin/
+src/DeployRBroker/obj/
+src/packages/
+src/DeployRBroker/DeployRBroker.xml
